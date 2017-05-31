@@ -10,11 +10,11 @@
     "central",
     "service"
   ],
-  "author": "Casey Banner <kcbanner@gmail.com>",
+  "author": "Giovanni Panasiti <giovanni@panasiti.me>",
   "contributors": [
     {
-      "name": "Joshua Chan",
-      "email": "joshua@appdevdesigns.net"
+      "name": "Giovanni Panasiti",
+      "email": "giovanni@panasiti.me"
     }
   ],
   "dependencies": {
