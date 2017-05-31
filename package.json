@@ -1,7 +1,7 @@
 {
   "name": "cas-http",
-  "version": "0.0.5",
-  "description": "Central Authentication Service (CAS) client for Node.js",
+  "version": "0.0.71",
+  "description": "Central Authentication Service (CAS) client for Node.js for HTTP cas",
   "keywords": [
     "cas-http",
     "central authentication service",
